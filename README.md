@@ -11,7 +11,20 @@
 - 🐈 Attempting to stay on top of projects with [Herding Cats](https://www.herdingcats.work/)
 - 🌳 Exploring secondary school computer science education with [Little Fen](https://www.littlefentutoring.co.uk/)
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=caro401&show_icons=true&count_private=true&include_all_commits=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="Caro's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caro401&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" /> |
-| ------------- | ------------- |
+## Stats!
 
-<br />
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=caro401&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="Caro's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caro401&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" /> |
+|------|------|
+
+
+## Key projects I've created
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caro401&repo=royal-velvet&show_owner=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caro401&repo=obsidian-buttondown&show_owner=true" />|
+|------|------|
+|<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codexfelis&repo=paws-template&show_owner=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codexfelis&repo=flumen&show_owner=true" />|
+
+
+
+## Key projects I've contributed to
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tropy&repo=tropy&show_owner=true" />
