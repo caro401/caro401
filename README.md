@@ -7,6 +7,7 @@
 - 🐾 Supporting the Digital Humanities at [Codex Felis](https://github.com/codexfelis) \[[website](https://www.codexfelis.dev/)\] \[[twitter](https://twitter.com/codexfelis)\]
 - 📚 Re-imagining personal library management for academics (and general nerds!) at ShelfCat \[[website](https://www.shelf-cat.com/)\] \[[twitter](https://www.twitter.com/shelfcatalogue)\]
 - 🎹 Playing and teaching folk dance music with [Flying Cat](https://www.flyingcat.dance)
+- 🐑 Creating and selling sustainable crafts and supplies at [Sheep's Green Crafts](https://sheepsgreencrafts.co.uk)
 - 🧶  Empowering creatives with technology at [Capybara Creative](https://www.capybaracreative.uk/)
 - 🐈 Attempting to stay on top of projects with [Herding Cats](https://www.herdingcats.work/)
 - 🌳 Exploring secondary school computer science education with [Little Fen](https://www.littlefentutoring.co.uk/)
