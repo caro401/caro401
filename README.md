@@ -2,7 +2,7 @@
 
 > Endlessly curious software developer, musician and textile artist from the UK
 
-- 💜 Musing about everything - talk to me about networked notetaking, the importance of sustainability in web design, the history of weaving, anything you fancy! \[[website](https://caro.fyi/)\] \[[twitter](https://twitter.com/caro_fyi)\]
+- 💜 Musing about everything - talk to me about networked notetaking, the importance of sustainability in web design, the history of weaving, anything you fancy! \[[website](https://caro.fyi/)\] \[[public notes](https://notes.caro.fyi/)\] \[[twitter](https://twitter.com/caro_fyi)\]
 - 📸 Improving research photo management at [Tropy](https://github.com/tropy) \[[website](https://tropy.org/)\] \[[twitter](https://twitter.com.tropy/)\]
 - 🐾 Supporting the Digital Humanities at [Codex Felis](https://github.com/codexfelis) \[[website](https://www.codexfelis.dev/)\] \[[twitter](https://twitter.com/codexfelis)\]
 - 📚 Re-imagining personal library management for academics (and general nerds!) at ShelfCat \[[website](https://www.shelf-cat.com/)\] \[[twitter](https://www.twitter.com/shelfcatalogue)\]
